@@ -53,7 +53,7 @@
 50	подсадил	подсадить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@gia1988f#@gia1988f#455.328#455.601
 51	/	/	PUNCT	_	_	_	_	_	words@gia1988f#@gia1988f#455.601#455.874
 52	/	/	PUNCT	_	_	_	_	_	words@gia1988f#@gia1988f#455.874#456.15
-53	мгм	мгм	PART	_	_	_	_	_	words@gia1988f#@gia1988f#457.075#457.17
+53	мгм	мгм	INTJ	_	_	_	_	_	words@gia1988f#@gia1988f#457.075#457.17
 54	/	/	PUNCT	_	_	_	_	_	words@gia1988f#@gia1988f#457.17#457.265
 55	/	/	PUNCT	_	_	_	_	_	words@gia1988f#@gia1988f#457.265#457.362
 56	да	да	PART	_	_	_	_	_	words@gia1988f#@gia1988f#459.172#459.248
@@ -177,7 +177,7 @@
 174	/	/	PUNCT	_	_	_	_	_	words@gia1988f#@gia1988f#556.492#556.687
 175	Ну	ну	PART	_	_	_	_	_	words@gia1988f#@gia1988f#558.075#558.364
 176	в	в	ADV	_	_	_	_	_	words@gia1988f#@gia1988f#558.364#558.653
-177	общем	общий	ADV	_	_	_	_	_	words@gia1988f#@gia1988f#558.653#558.942
+177	общем	общий	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	words@gia1988f#@gia1988f#558.653#558.942
 178	пришёл	прийти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@gia1988f#@gia1988f#558.942#559.231
 179	ко	к	ADP	_	_	_	_	_	words@gia1988f#@gia1988f#559.231#559.52
 180	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	words@gia1988f#@gia1988f#559.52#559.809
@@ -202,7 +202,7 @@
 199	как-то	как-то	ADV	_	Degree=Pos	_	_	_	words@gia1988f#@gia1988f#565.011#565.3
 200	оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	_	_	_	words@gia1988f#@gia1988f#565.3#565.589
 201	в	в	ADV	_	_	_	_	_	words@gia1988f#@gia1988f#565.589#565.878
-202	общем	общем	ADV	_	_	_	_	_	words@gia1988f#@gia1988f#565.878#566.167
+202	общем	общий	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	words@gia1988f#@gia1988f#565.878#566.167
 203	/	/	PUNCT	_	_	_	_	_	words@gia1988f#@gia1988f#566.167#566.456
 204	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@gia1988f#@gia1988f#566.456#566.745
 205	решила	решить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@gia1988f#@gia1988f#566.745#567.034
@@ -230,7 +230,7 @@
 227	/	/	PUNCT	_	_	_	_	_	words@gia1988f#@gia1988f#579.728#580.025
 228	ии	и	CCONJ	_	_	_	_	_	words@gia1988f#@gia1988f#580.025#580.322
 229	в	в	ADV	_	_	_	_	_	words@gia1988f#@gia1988f#580.322#580.619
-230	общем	общий	ADV	_	_	_	_	_	words@gia1988f#@gia1988f#580.619#580.916
+230	общем	общий	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	words@gia1988f#@gia1988f#580.619#580.916
 231	ээ	ээ	X	_	Foreign=Yes	_	_	_	words@gia1988f#@gia1988f#580.916#581.213
 232	эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@gia1988f#@gia1988f#581.213#581.51
 233	пенистая	пенистый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@gia1988f#@gia1988f#581.51#581.807
@@ -283,7 +283,7 @@
 280	да	да	PART	_	_	_	_	_	words@gia1988f#@gia1988f#603.484#603.626
 281	?	?	PUNCT	_	_	_	_	_	words@gia1988f#@gia1988f#603.626#603.768
 282	/	/	PUNCT	_	_	_	_	_	words@gia1988f#@gia1988f#603.768#603.91
-283	Должна	должен	AUX	_	Gender=Fem|Number=Sing	_	_	_	words@gia1988f#@gia1988f#603.91#604.052
+283	Должна	должный	ADJ	_	Gender=Fem|Number=Sing	_	_	_	words@gia1988f#@gia1988f#603.91#604.052
 284	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@gia1988f#@gia1988f#604.052#604.194
 285	/	/	PUNCT	_	_	_	_	_	words@gia1988f#@gia1988f#604.194#604.336
 286	/	/	PUNCT	_	_	_	_	_	words@gia1988f#@gia1988f#604.336#604.48
@@ -293,7 +293,7 @@
 290	ну	ну	PART	_	_	_	_	_	words@gia1988f#@gia1988f#616.8#617.0
 291	ничего	ничто	PRON	_	Case=Gen	_	_	_	words@gia1988f#@gia1988f#617.0#617.2
 292	да	да	PART	_	_	_	_	_	words@gia1988f#@gia1988f#617.2#617.4
-293	мгм	мгм	PART	_	_	_	_	_	words@gia1988f#@gia1988f#617.4#617.6
+293	мгм	мгм	INTJ	_	_	_	_	_	words@gia1988f#@gia1988f#617.4#617.6
 294	/	/	PUNCT	_	_	_	_	_	words@gia1988f#@gia1988f#617.6#617.8
 295	тьфу	тьфу	INTJ	_	_	_	_	_	words@gia1988f#@gia1988f#617.8#618.0
 296	#плюет#	#плюет#	X	_	_	_	_	_	words@gia1988f#@gia1988f#618.0#618.2
@@ -421,7 +421,7 @@
 418	VOGUE	VOGUE	PROPN	_	Foreign=Yes	_	_	_	words@gia1988f#@gia1988f#722.811#723.058
 419	/	/	PUNCT	_	_	_	_	_	words@gia1988f#@gia1988f#723.058#723.305
 420	в	в	ADV	_	_	_	_	_	words@gia1988f#@gia1988f#723.305#723.552
-421	итоге	итоге	ADV	_	_	_	_	_	words@gia1988f#@gia1988f#723.552#723.799
+421	итоге	итог	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	words@gia1988f#@gia1988f#723.552#723.799
 422	/	/	PUNCT	_	_	_	_	_	words@gia1988f#@gia1988f#723.799#724.046
 423	/	/	PUNCT	_	_	_	_	_	words@gia1988f#@gia1988f#724.046#724.3
 424	Да	да	PART	_	_	_	_	_	words@gia1988f#@gia1988f#732.062#732.145
@@ -434,7 +434,7 @@
 431	интересно	интересный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	words@gia1988f#@gia1988f#733.735#733.972
 432	но	но	CCONJ	_	_	_	_	_	words@gia1988f#@gia1988f#733.972#734.209
 433	в	в	ADV	_	_	_	_	_	words@gia1988f#@gia1988f#734.209#734.446
-434	итоге	итоге	ADV	_	_	_	_	_	words@gia1988f#@gia1988f#734.446#734.683
+434	итоге	итог	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	words@gia1988f#@gia1988f#734.446#734.683
 435	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	words@gia1988f#@gia1988f#734.683#734.92
 436	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1	_	_	_	words@gia1988f#@gia1988f#734.92#735.157
 437	не	не	PART	_	_	_	_	_	words@gia1988f#@gia1988f#735.157#735.394
@@ -537,9 +537,9 @@
 534	ээ	ээ	X	_	_	_	_	_	words@uia1978m#@uia1978m#432.906#433.153
 535	делаешь	делать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@uia1978m#@uia1978m#433.153#433.4
 536	на	на	ADP	_	_	_	_	_	words@uia1978m#@uia1978m#433.4#433.647
-537	вот	вот	PRON	_	_	_	_	_	words@uia1978m#@uia1978m#433.647#433.894
+537	вот	вот	PART	_	_	_	_	_	words@uia1978m#@uia1978m#433.647#433.894
 538	этой	этот	DET	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	words@uia1978m#@uia1978m#433.894#434.141
-539	вот	вот	PRON	_	_	_	_	_	words@uia1978m#@uia1978m#434.141#434.388
+539	вот	вот	PART	_	_	_	_	_	words@uia1978m#@uia1978m#434.141#434.388
 540	самой	самый	DET	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@uia1978m#@uia1978m#434.388#434.635
 541	изоляции	изоляция	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	words@uia1978m#@uia1978m#434.635#434.882
 542	что	что	PRON	_	Case=Acc	_	_	_	words@uia1978m#@uia1978m#434.882#435.129
@@ -576,7 +576,7 @@
 573	Вкусно	вкусно	ADV	_	Degree=Pos	_	_	_	words@uia1978m#@uia1978m#447.712#447.841
 574	/	/	PUNCT	_	_	_	_	_	words@uia1978m#@uia1978m#447.841#447.97
 575	/	/	PUNCT	_	_	_	_	_	words@uia1978m#@uia1978m#447.97#448.1
-576	Мгм	Мгм	PART	_	_	_	_	_	words@uia1978m#@uia1978m#448.75#448.887
+576	Мгм	Мгм	INTJ	_	_	_	_	_	words@uia1978m#@uia1978m#448.75#448.887
 577	/	/	PUNCT	_	_	_	_	_	words@uia1978m#@uia1978m#448.887#449.024
 578	/	/	PUNCT	_	_	_	_	_	words@uia1978m#@uia1978m#449.024#449.162
 579	Как	как	PRON	_	_	_	_	_	words@uia1978m#@uia1978m#452.643#452.834
@@ -877,7 +877,7 @@
 874	стала	стать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	words@uia1978m#@uia1978m#534.308#534.511
 875	вегитарианцем	вегитарианец	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	words@uia1978m#@uia1978m#534.511#534.714
 876	/	/	PUNCT	_	_	_	_	_	words@uia1978m#@uia1978m#534.714#534.917
-877	нужно	нужно	AUX	_	_	_	_	_	words@uia1978m#@uia1978m#534.917#535.12
+877	нужно	нужный	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@uia1978m#@uia1978m#534.917#535.12
 878	переосмыслить	переосмыслить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@uia1978m#@uia1978m#535.12#535.323
 879	все	весь	DET	_	Case=Acc|Number=Plur	_	_	_	words@uia1978m#@uia1978m#535.323#535.526
 880	приготовления	приготовление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	_	_	_	words@uia1978m#@uia1978m#535.526#535.729
@@ -936,12 +936,12 @@
 933	Макаревич	Макаревич	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@uia1978m#@uia1978m#572.211#572.469
 934	еда	еда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@uia1978m#@uia1978m#572.469#572.727
 935	всегда	всегда	ADV	_	Degree=Pos	_	_	_	words@uia1978m#@uia1978m#572.727#572.985
-936	должна	должен	AUX	_	Gender=Fem|Number=Sing	_	_	_	words@uia1978m#@uia1978m#572.985#573.243
+936	должна	должный	ADJ	_	Gender=Fem|Number=Sing	_	_	_	words@uia1978m#@uia1978m#572.985#573.243
 937	выглядеть	выглядеть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@uia1978m#@uia1978m#573.243#573.501
 938	аппетитно	аппетитно	ADV	_	Degree=Pos	_	_	_	words@uia1978m#@uia1978m#573.501#573.759
 939	/	/	PUNCT	_	_	_	_	_	words@uia1978m#@uia1978m#573.759#574.017
 940	/	/	PUNCT	_	_	_	_	_	words@uia1978m#@uia1978m#574.017#574.275
-941	Вот	вот	PRON	_	_	_	_	_	words@uia1978m#@uia1978m#575.125#575.35
+941	Вот	вот	ADV	_	_	_	_	_	words@uia1978m#@uia1978m#575.125#575.35
 942	фотография	фотография	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@uia1978m#@uia1978m#575.35#575.575
 943	/	/	PUNCT	_	_	_	_	_	words@uia1978m#@uia1978m#575.575#575.8
 944	/	/	PUNCT	_	_	_	_	_	words@uia1978m#@uia1978m#575.8#576.025
@@ -975,7 +975,7 @@
 972	/	/	PUNCT	_	_	_	_	_	words@uia1978m#@uia1978m#598.958#599.162
 973	Чуть-чуть	чуть-чуть	ADV	_	_	_	_	_	words@uia1978m#@uia1978m#600.25#600.554
 974	там	там	ADV	_	_	_	_	_	words@uia1978m#@uia1978m#600.554#600.858
-975	вот	вот	PRON	_	_	_	_	_	words@uia1978m#@uia1978m#600.858#601.162
+975	вот	вот	PART	_	_	_	_	_	words@uia1978m#@uia1978m#600.858#601.162
 976	где-то	где-то	ADV	_	_	_	_	_	words@uia1978m#@uia1978m#601.162#601.466
 977	/	/	PUNCT	_	_	_	_	_	words@uia1978m#@uia1978m#601.466#601.77
 978	где-то	где-то	ADV	_	_	_	_	_	words@uia1978m#@uia1978m#601.77#602.074
@@ -1009,7 +1009,7 @@
 1006	и	и	CCONJ	_	_	_	_	_	words@uia1978m#@uia1978m#610.282#610.586
 1007	тобой	ты	PRON	_	Case=Ins|Number=Sing|Person=2	_	_	_	words@uia1978m#@uia1978m#610.586#610.89
 1008	/	/	PUNCT	_	_	_	_	_	words@uia1978m#@uia1978m#610.89#611.194
-1009	вот	вот	PRON	_	_	_	_	_	words@uia1978m#@uia1978m#611.194#611.498
+1009	вот	вот	PART	_	_	_	_	_	words@uia1978m#@uia1978m#611.194#611.498
 1010	там	там	ADV	_	Degree=Pos	_	_	_	words@uia1978m#@uia1978m#611.498#611.802
 1011	между	между	ADP	_	_	_	_	_	words@uia1978m#@uia1978m#611.802#612.106
 1012	духовкой	духовка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	_	_	words@uia1978m#@uia1978m#612.106#612.41
@@ -1110,7 +1110,7 @@
 1107	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@uia1978m#@uia1978m#636.474#636.698
 1108	действительно	действительно	ADV	_	Degree=Pos	_	_	_	words@uia1978m#@uia1978m#636.698#636.922
 1109	/	/	PUNCT	_	_	_	_	_	words@uia1978m#@uia1978m#636.922#637.146
-1110	вот	вот	ADV	_	_	_	_	_	words@uia1978m#@uia1978m#637.146#637.37
+1110	вот	вот	PART	_	_	_	_	_	words@uia1978m#@uia1978m#637.146#637.37
 1111	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@uia1978m#@uia1978m#637.37#637.594
 1112	ещё	еще	ADV	_	Degree=Pos	_	_	_	words@uia1978m#@uia1978m#637.594#637.818
 1113	в	в	ADP	_	_	_	_	_	words@uia1978m#@uia1978m#637.818#638.042
@@ -1268,7 +1268,7 @@
 1265	/	/	PUNCT	_	_	_	_	_	words@uia1978m#@uia1978m#700.988#701.226
 1266	давай	давать	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	_	_	words@uia1978m#@uia1978m#701.226#701.464
 1267	поговоримте	поговорить	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@uia1978m#@uia1978m#701.464#701.702
-1268	вот	вот	PRON	_	_	_	_	_	words@uia1978m#@uia1978m#701.702#701.94
+1268	вот	вот	ADV	_	_	_	_	_	words@uia1978m#@uia1978m#701.702#701.94
 1269	о	о	ADP	_	_	_	_	_	words@uia1978m#@uia1978m#701.94#702.178
 1270	чём	что	PRON	_	Case=Loc	_	_	_	words@uia1978m#@uia1978m#702.178#702.416
 1271	/	/	PUNCT	_	_	_	_	_	words@uia1978m#@uia1978m#702.416#702.654
@@ -1296,7 +1296,7 @@
 1293	чтоб	чтобы	SCONJ	_	Mood=Cnd	_	_	_	words@uia1978m#@uia1978m#707.652#707.89
 1294	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@uia1978m#@uia1978m#707.89#708.128
 1295	прокомментировала	комментировать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@uia1978m#@uia1978m#708.128#708.366
-1296	вот	вот	PRON	_	_	_	_	_	words@uia1978m#@uia1978m#708.366#708.604
+1296	вот	вот	ADV	_	_	_	_	_	words@uia1978m#@uia1978m#708.366#708.604
 1297	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@uia1978m#@uia1978m#708.604#708.842
 1298	фотографию	фотография	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@uia1978m#@uia1978m#708.842#709.08
 1299	/	/	PUNCT	_	_	_	_	_	words@uia1978m#@uia1978m#709.08#709.318
@@ -1370,8 +1370,8 @@
 1367	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@uia1978m#@uia1978m#739.559#740.056
 1368	/	/	PUNCT	_	_	_	_	_	words@uia1978m#@uia1978m#740.056#740.553
 1369	#нрзб#	#нрзб#	X	_	_	_	_	_	words@uia1978m#@uia1978m#740.553#741.05
-1370	То	то	SCONJ	_	_	_	_	_	words@uia1978m#@uia1978m#742.083#742.257
-1371	есть	есть	SCONJ	_	_	_	_	_	words@uia1978m#@uia1978m#742.257#742.431
+1370	То	то	PRON	_	Case=Nom	_	_	_	words@uia1978m#@uia1978m#742.083#742.257
+1371	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@uia1978m#@uia1978m#742.257#742.431
 1372	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	words@uia1978m#@uia1978m#742.431#742.605
 1373	тебя	ты	PRON	_	Case=Acc|Number=Sing|Person=2	_	_	_	words@uia1978m#@uia1978m#742.605#742.779
 1374	не	не	PART	_	_	_	_	_	words@uia1978m#@uia1978m#742.779#742.953
